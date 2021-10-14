@@ -6,7 +6,7 @@ Implemets a search engine that supports several search algorithms to solve the E
 
 1. javac *.java
  
-and than:
+   and than:
 
 2. java Ex1 input.txt
 
