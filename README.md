@@ -5,7 +5,9 @@ Implemets a search engine that supports several search algorithms to solve the E
 ## Launch:
 
 1. javac *.java
+ 
 and than:
+
 2. java Ex1 input.txt
 
 ## Input & Output:
